@@ -1,6 +1,3 @@
-# recettemaster
-Recipe manager in jQuery
-
 # Présentation en français
 
 
